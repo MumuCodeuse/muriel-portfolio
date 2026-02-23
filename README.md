@@ -65,8 +65,10 @@ Je développe actuellement une **API éducative sur les sondes spatiales**, avec
 - Bcrypt
 - JWT
 - cors
-- dotenv, eslint, nodemon  
-- Architecture claire, validation, documentation à venir  
+- Fetch API
+- dotenv, eslint, nodemon
+- LanguageTool (correcteur orthographique et grammatical basé sur l’IA) 
+- Architecture claire, validation, documentation à venir
  👉 [Voir le site des sondes](https://github.com/MumuCodeuse/Site_sondes) 
 
 ---
@@ -79,7 +81,8 @@ L’intelligence artificielle appliquée m’attire particulièrement : j’aime
 
 ## 📄 Mon CV
 
-👉 [Télécharger mon CV](./CV%20Ralu%20Muriel%2014022026.pdf)
+👉 [CV Ralu Muriel 2302026.pdf](https://github.com/user-attachments/files/25498422/CV.Ralu.Muriel.2302026.pdf)
+
 
 
 
