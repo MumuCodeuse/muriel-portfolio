@@ -81,7 +81,8 @@ L’intelligence artificielle appliquée m’attire particulièrement : j’aime
 
 ## 📄 Mon CV
 
-👉 [CV Ralu Muriel 2302026.pdf](https://github.com/user-attachments/files/25498422/CV.Ralu.Muriel.2302026.pdf)
+👉 [CV Ralu Muriel 2302026.pdf](https://github.com/user-attachments/files/25498483/CV.Ralu.Muriel.2302026.pdf)
+
 
 
 
