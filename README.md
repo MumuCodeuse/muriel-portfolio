@@ -1,5 +1,5 @@
 # muriel-portfolio
-Présentation de mes projets de reconversion en développement backend, avec un focus sur la sécurité applicative.
+Présentation de mes projets de reconversion en développement full stack, avec un focus sur la sécurité applicative.
 
 # 👋 Bonjour, je suis Muriel
 
@@ -19,18 +19,17 @@ Mon parcours dans la qualité m’a donné une solide expertise en :
 - Résolution de problèmes et prise de décision  
 - Accompagnement des équipes dans leurs évolutions  
 
-Convaincue par l’intelligence collective, je me suis formée à **Scrum** et au rôle de **Scrum Master**.  
-Je suis rigoureuse, volontaire, organisée, et j’aime travailler dans un cadre collaboratif.
+Convaincue par l’intelligence collective, je me suis formée à **Scrum** et au rôle de **Scrum Master** et suis très interessée par les démarches DevOps et DevSecOps.
+Rigoureuse et volontaire, j’aime travailler dans un cadre collaboratif.
 
 ---
 
-## 🔧 Ma reconversion : backend & sécurité applicative
+## 🔧 Ma reconversion 
+Aujourd’hui, je poursuis ma reconversion vers le **Développement full stack / back-end**, avec un intérêt marqué pour la **sécurité applicative**.
 
-Aujourd’hui, je poursuis ma reconversion vers le **développement backend**, avec un intérêt marqué pour la **sécurité applicative**.
-
-🎓 **Je recherche une alternance Bac+3 Développement informatique (CNAM)**  
-📅 **Dès septembre 2026**  
-⏳ **Durée : 11 mois**  
+🎓 **Je recherche une alternance Bac+3 Développement  (Licence CNAM/IIA de Saint Berthevin)**  
+📅 **Début septembre 2026**  
+⏳ **Durée : 12 mois**  
 📍 **Pays de la Loire ou Bretagne**
 
 ---
@@ -81,7 +80,8 @@ L’intelligence artificielle appliquée m’attire particulièrement : j’aime
 
 ## 📄 Mon CV
 
-👉 [CV Ralu Muriel 2302026.pdf](https://github.com/user-attachments/files/25498483/CV.Ralu.Muriel.2302026.pdf)
+👉 [CV M.Ralu Alternance Dev 19032026.pdf](https://github.com/user-attachments/files/26410355/CV.M.Ralu.Alternance.Dev.19032026.pdf)
+
 
 
 
